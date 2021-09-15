@@ -1,0 +1,5 @@
+# Files to ignore
+*.pdf
+*.mlx
+*.mltbx
+*.prj
