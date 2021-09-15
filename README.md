@@ -4,7 +4,7 @@
 
 1. Download the MovingAverageFilterToolbox from [here](https://www.mathworks.com/matlabcentral/fileexchange/99349-movingaveragefiltertoolbox).
 2. Open MATLAB and navigate to the directory where you downloaded the toolbox. Double click the toolbox in MATLAB's file explorer to install.
-3. In MATLAB, go to Add-Ons -> Manage Add-Ons. Find the toolbox that you just installed, right click, and select 'Open Folder'
+3. type 'Asgn_2017A8PS1924G' in the Command Window to run (Terrible command, will fix this soon).
 
 ### Gui Overview
 
