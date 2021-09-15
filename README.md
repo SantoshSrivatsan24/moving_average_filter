@@ -1,2 +1,42 @@
-# moving_average_filter
-MATLAB GUI to demonstrate the working of a moving average filter
+## MATLAB GUI to demonstrate the working of a Moving Average Filter
+
+### Installation
+
+### Gui Overview
+
+![](Screenshots/gui_overview.png)
+
+### Choosing Input Parameters
+
+1. Max value of k = 5
+2. Max value of M = 50
+3. Default value of k = 1
+4. Default value of M = 1
+5. Default value of Amplitude = 1
+6. Default value of Frequency = 1
+   
+Notes
+
+- The program will not throw an error if the user clicks on RUN without entering any values since every user input parameter has a default.
+- The number of fields for entering values of amplitude and frequency varies based on the value of k.
+- The user has an option to add random noise to the input signal
+
+![](Screenshots/choosing_input_parameters.png)
+
+### Selecting Output Plots
+
+1. Plots can be selected only after clicking the RUN button.
+2. Input and output signals can be plotted on the same window for comparison.
+3. The plot can be saved as a jpeg image using the save functionality.
+
+![](Screenshots/selecting_output_plots.png)
+
+### Additional notes
+
+You can find screenshots of working in the /Screenshots directory
+
+
+
+
+
+
